@@ -2,7 +2,6 @@ import s from './Searchbar.module.css';
 import { ImSearch } from 'react-icons/im';
 import PropTypes from 'prop-types';
 import { toast } from 'react-toastify';
-
 import { Component } from 'react';
 
 class Searchbar extends Component {
